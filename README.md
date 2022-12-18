@@ -13,6 +13,9 @@
   
 
 - 🎯 Goals: Becoming Full-Stack web developer.  
+
+
+- 📫 How to reach me emre.113@hotmail.com  
   
 
 <br/>  
