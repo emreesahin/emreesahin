@@ -2,7 +2,7 @@
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 50%" />
 </div>  
   
-  # Emre
+
 
 ### <div align="center">Hello my name is Emre Şahin and I am studying Computer Engineering at Alanya Alaaddin Keykubat University. I am interested in web and mobile development. I am improving myself in JavaScript, React.js and Vue.js</div>  
   
