@@ -4,19 +4,19 @@
   
 
 
-### <div align="center">Hello my name is Emre Şahin and I am studying Computer Engineering at Alanya Alaaddin Keykubat University. I am interested in web and mobile development. I am improving myself in JavaScript, React.js and Vue.js</div>  
+### <div align="center">Hello, I am Emre Şahin </div>  
   
 
 - 🔭 I’m currently working on Web Development  
   
 
-- 🌱 I’m currently improving myself in ReactJS and TypeScript  
+- 🌱 I’m currently improving myself in ASP.NET Core 
   
 
 - 🎯 Goals: Becoming Full-Stack web developer.  
 
 
-- 📫 How to reach me emre.113@hotmail.com  
+- 📫 How to reach me emreshn10@icloud.com  
   
 
 <br/>  
